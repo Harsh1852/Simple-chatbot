@@ -1,4 +1,4 @@
-key = "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"
+key = "Your_api"
 
 import openai
 import os
